@@ -5,7 +5,7 @@ Los resultados son almacenados en la carpeta salida.
 
 Vista de la app en consola:
 
-``` 
+``` console
 Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
@@ -16,7 +16,8 @@ Opciones:
 ```
 
 Ejemplo:
-```
+
+``` console
 PS D:\Cursos\NodeJS\03_bases_node> node app -b 2 -l --hasta=20
 2 * 1 = 2
 2 * 2 = 4
